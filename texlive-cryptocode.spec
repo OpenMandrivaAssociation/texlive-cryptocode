@@ -1,6 +1,6 @@
 Name:		texlive-cryptocode
 Version:	60249
-Release:	1
+Release:	2
 Summary:	Typesetting pseudocode, protocols, game-based proofs and black-box reductions in cryptography
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cryptocode
