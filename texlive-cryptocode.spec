@@ -3,7 +3,7 @@ Version:	60249
 Release:	2
 Summary:	Typesetting pseudocode, protocols, game-based proofs and black-box reductions in cryptography
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cryptocode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cryptocode
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cryptocode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cryptocode.doc.r%{version}.tar.xz
